@@ -1,0 +1,24 @@
+{
+   "sessionName": "kzu",
+   "ownerNumber": "6283875999626@s.whatsapp.net",
+   "ownerName": "Kenny Kazemizu",
+   "botName": "Kzu•Bot",
+   "footer": "KZUBOT © 2022",
+   "butName": "",
+   "butLink": "",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "packname": "",
+   "author": "",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
