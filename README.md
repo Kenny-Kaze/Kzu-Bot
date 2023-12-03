@@ -1,24 +1,24 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ramlan404/Ramlan404/main/mylogo.jpg" alt="BABY BOT" width="128" height="128"/>
+<img src="https://github.com/Kenny-Kaze/Kzu•Bot/temp/logo.jpg" alt="Kzu Bot" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="BABY BOT" src="https://img.shields.io/badge/BABY BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Kzu•Bot" src="https://img.shields.io/badge/Kzu•Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan404"><img title="Author" src="https://img.shields.io/badge/Author-Ramlan ID-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Kenny-Kaze"><img title="Author" src="https://img.shields.io/badge/Author-Kenny Kazemizu-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan404/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan404?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ramlan404/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramlan404/babybot?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramlan404/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramlan404/babybot?color=red&style=flat-square"></a>
-<a href="https://github.com/Ramlan404/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramlan404/babybot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Kenny-Kaze/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kenny-Kaze?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kenny-Kaze/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kenny-Kaze/Kzu•Bot?color=red&style=flat-square"></a>
+<a href="https://github.com/Kenny-Kaze/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kenny-Kaze/Kzu•Bot?color=red&style=flat-square"></a>
+<a href="https://github.com/Kenny-Kaze/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kenny-Kaze/Kzu•Bot?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ramlan404/babybot#requirements">Requirements</a> •
-  <a href="https://github.com/Ramlan404/babybot#instalasi">Installation</a> •
-  <a href="https://github.com/Ramlan404/babybot#features">Features</a> •
-  <a href="https://github.com/Ramlan404/babybot#thanks-to">Thanks to</a>
+  <a href="https://github.com/Kenny-Kaze/Kzu•Bot#requirements">Requirements</a> •
+  <a href="https://github.com/Kenny-Kaze/Kzu•Bot#instalasi">Installation</a> •
+  <a href="https://github.com/Kenny-Kaze/Kzu•Bot#features">Features</a> •
+  <a href="https://github.com/Kenny-Kaze/Kzu•Bot#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -38,8 +38,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Ramlan404/babybot.git
-cd babybot
+git clone https://github.com/Kenny-Kaze/Kzu•Bot.git
+cd Kzu•Bot
 npm install
 npm start
 ```
@@ -48,8 +48,8 @@ npm start
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Ramlan404/babybot.git
-cd babybot
+git clone https://github.com/Kenny-Kaze/Kzu•Bot.git
+cd Kzu•Bot
 npm install
 npm start
 ```
