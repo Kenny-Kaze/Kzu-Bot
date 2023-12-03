@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Kenny-Kaze/Kzu•Bot/temp/logo.jpg" alt="Kzu Bot" width="128" height="128"/>
+<img src="https://github.com/Kenny-Kaze/Kzu-Bot/temp/logo.jpg" alt="Kzu•Bot" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Kzu•Bot" src="https://img.shields.io/badge/Kzu•Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
