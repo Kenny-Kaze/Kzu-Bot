@@ -41,8 +41,6 @@ ${runtime}
 • ${prefix}updatelist *key@response*
 • ${prefix}resetlist
 • ${prefix}list
-• p
-• d
 • ${prefix}setp *text*
 • ${prefix}changep *text*
 • ${prefix}delsetp *text*
@@ -54,12 +52,6 @@ ${runtime}
 • ${prefix}youtube *url*
 • ${prefix}instagram *url*
 • ${prefix}tiktok *url*
-
-*BAILEYS*
-• ${prefix}towame *number/reply number*
-• ${prefix}quoted *reply container*
-• ${prefix}fakehidetag *text*
-• ${prefix}react *emoji*
 
 *OWNERS MENU*
 • ${prefix}setlogo *reply image*
